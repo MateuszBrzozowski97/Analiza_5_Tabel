@@ -1,0 +1,10 @@
+Baza Adventure Works 2019- Dane pobrane z pięciu tabel
+Dane ze strony:
+https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms
+
+Pobrane całe 5tabel do Excela za pomoca zapytań SQL
+SELECT * FROM Sales.SalesOrderHeader; 
+SELECT * FROM Sales.SpecialOffer;
+SELECT * FROM Production.Product; 
+SELECT * FROM Sales.Customer; 
+SELECT * FROM Sales.SalesOrderDetail; 
